@@ -16,6 +16,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: hiteshsundraaa/semzero-public-alpha-launch@9ea53f1b47ae05b14a3a7c4f2162b7c10cf8b952
         with:
