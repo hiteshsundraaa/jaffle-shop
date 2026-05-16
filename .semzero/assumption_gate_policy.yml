@@ -1,0 +1,4 @@
+version: 1
+mode: shadow
+require_manifest: false
+static_fallback: true

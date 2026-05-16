@@ -56,3 +56,5 @@ joined as (
 )
 
 select * from joined
+
+-- SemZero fresh action test: customer model touched for assumption review
