@@ -59,3 +59,4 @@ select * from joined
 
 -- SemZero fresh action test: customer model touched for assumption review
 -- trigger changed-file discovery 20260516085409
+-- trigger SemZero full-history diff 20260516090947
