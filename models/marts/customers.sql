@@ -56,3 +56,9 @@ joined as (
 )
 
 select * from joined
+
+-- SemZero fresh action test: customer model touched for assumption review
+-- trigger changed-file discovery 20260516085409
+-- trigger SemZero full-history diff 20260516090947
+-- trigger reviewer-first comment 20260516102218
+-- trigger reviewer-action layout 20260516102834
